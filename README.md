@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java spring and React Js
 - 🌱 I’m currently learning Spring 5
 - 💞️ I’m looking to collaborate on open source projects and web applications
-- 📫 How to reach me ...
+- 📫 You can reach me through my linkedin account: https://www.linkedin.com/in/ehsan-ghajari/ ...
 
 <!---
 ehsang/ehsang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
