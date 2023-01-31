@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ehsang
-- 👀 I’m interested in Java spring and React Js
+- 👀 I’m interested in Java and spring framework
 - 🌱 I’m currently learning Spring 5
 - 💞️ I’m looking to collaborate on open source projects and web applications
 - 📫 You can reach me through my linkedin account: https://www.linkedin.com/in/ehsan-ghajari/ ...
